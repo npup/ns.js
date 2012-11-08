@@ -1,0 +1,4 @@
+ns.js
+=====
+
+namespaceing utility
